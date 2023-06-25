@@ -7,6 +7,9 @@ import org.springframework.web.bind.annotation.RestController;
 
 import javax.annotation.Resource;
 
+/**
+ * Third branch
+ */
 @RestController
 public class MyController {
 
