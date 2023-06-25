@@ -16,7 +16,7 @@ public class MyController {
     @RequestMapping(value="/test")
     public String test() {
         vehical.run();
-        return "abcddd";
+        return "abcdd纯纯粹粹";
         // comment
     }
 }
