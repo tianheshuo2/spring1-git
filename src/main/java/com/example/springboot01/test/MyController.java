@@ -19,7 +19,7 @@ public class MyController {
     @RequestMapping(value="/test")
     public String test() {
         vehical.run();
-        return "abcdd纯纯粹粹ddd";
+        return "abcdd纯纯粹粹ddd third";
         // comment
     }
 }
