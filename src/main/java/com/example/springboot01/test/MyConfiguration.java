@@ -13,6 +13,10 @@ public class MyConfiguration {
         // return null;
     }
 
+    /**
+     * This is my config
+     * @return
+     */
     @Bean
     public CustomBeanPostProcessor customBeanPostProcessor() {
         return new CustomBeanPostProcessor();
